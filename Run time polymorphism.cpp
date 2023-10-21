@@ -1,3 +1,5 @@
+//Run time polymorphism : function overriding
+
 #include <iostream>
 using namespace std;
 
