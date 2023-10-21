@@ -1,4 +1,6 @@
+
 //we can achive compile time polymorphism using function overloading
+
 
 #include <iostream>
 using namespace std;
@@ -20,8 +22,11 @@ void display(double salary)
 
 int main() 
 {
-	display(20);
+	display(20);           
 	display("sairaj");
 	display(50000.56);
 	return 0;
 }
+
+
+//we can also perform compile time polymorphism using the classes and objects
