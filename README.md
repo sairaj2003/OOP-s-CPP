@@ -32,4 +32,7 @@
 
   <li><b>Function Overriding:</b></li>
   <p>Function overriding occurs in the context of inheritance. When a derived class provides a specific implementation for a function that is already declared in its base class, it is known as function overriding. The function in the derived class "overrides" the function in the base class.</p>
+
+  <li><b>Friend Class</b></li>
+  <p>A friend class is a class that is granted special access to the private and protected members of another class. This means that the friend class can access private and protected member variables and functions of the class it is friends with, even though those members are not accessible to the rest of the program.</p>
 </ul>
